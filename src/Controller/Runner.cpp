@@ -12,6 +12,11 @@ int main()
 	cout << "This is how you type to the console in C++" << endl;
 	//This would be like System.out.println("asdfghasg");
 
+	int temp;
+
+	cin >> temp;
+
+	cout << temp;
 
 	return 0;
 }
